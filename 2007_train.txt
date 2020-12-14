@@ -1,0 +1,1165 @@
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1.jpg 173,168,289,309,0 653,195,749,301,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/10.jpg 420,150,511,267,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/100.jpg 361,126,557,366,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1000.jpg 262,166,825,888,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1001.jpg 426,49,750,429,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1002.jpg 58,21,153,119,1 273,23,342,115,1 420,23,497,120,1 647,33,728,134,1 875,8,956,105,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1003.jpg 657,85,827,254,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1004.jpg 327,21,530,286,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1005.jpg 314,126,404,230,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1006.jpg 304,142,460,310,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1007.jpg 308,133,416,262,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1008.jpg 293,81,443,226,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1009.jpg 337,92,640,452,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/101.jpg 439,73,639,333,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1010.jpg 260,162,830,826,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1011.jpg 214,6,316,152,1 313,97,391,213,1 507,103,582,220,1 641,46,738,182,1 760,43,872,191,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1012.jpg 217,37,391,219,1 679,157,840,352,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1013.jpg 142,26,241,148,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1014.jpg 268,158,398,290,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1015.jpg 196,175,304,333,1 417,166,550,322,1 608,128,794,293,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1016.jpg 268,162,388,311,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1017.jpg 289,123,422,288,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1018.jpg 170,133,707,880,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1019.jpg 284,142,404,273,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/102.jpg 377,87,494,227,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1020.jpg 406,67,648,384,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1021.jpg 293,85,427,242,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1022.jpg 168,123,348,334,1 497,204,654,396,1 817,72,933,196,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1023.jpg 389,43,704,489,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1024.jpg 204,209,416,433,1 460,61,652,303,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1025.jpg 272,170,401,330,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1026.jpg 262,129,394,276,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1027.jpg 139,202,860,1120,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1028.jpg 191,86,343,245,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1029.jpg 183,147,745,842,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/103.jpg 545,73,728,295,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1030.jpg 290,137,385,259,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1031.jpg 291,279,718,838,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1032.jpg 581,91,708,235,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1033.jpg 262,85,389,225,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1034.jpg 171,71,527,441,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1035.jpg 360,135,483,269,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1036.jpg 303,124,739,704,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1037.jpg 274,112,778,815,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1038.jpg 327,61,432,176,1 549,61,686,222,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1039.jpg 303,116,408,243,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/104.jpg 81,57,270,280,0 502,74,633,224,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1040.jpg 419,118,656,452,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1041.jpg 253,109,398,283,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1042.jpg 133,520,405,812,1 484,189,804,512,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1043.jpg 94,84,238,249,1 351,188,486,343,1 668,12,823,194,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1044.jpg 282,117,618,506,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1045.jpg 441,59,789,511,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1046.jpg 333,146,456,299,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1047.jpg 280,125,390,246,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1048.jpg 67,39,220,241,1 606,46,728,190,1 780,81,925,262,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1049.jpg 178,90,852,885,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/105.jpg 338,124,489,297,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1050.jpg 139,165,209,247,1 206,170,249,237,1 260,162,303,233,1 283,116,341,189,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1051.jpg 312,88,432,229,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1052.jpg 99,36,299,258,1 306,118,531,475,1 525,150,723,537,1 720,55,978,457,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1053.jpg 203,63,911,1001,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1054.jpg 223,51,818,690,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1055.jpg 185,3,353,193,1 616,85,755,242,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1056.jpg 684,166,823,311,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1057.jpg 94,64,141,128,1 169,83,216,142,1 233,73,283,137,1 294,42,350,109,1 350,23,402,95,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1058.jpg 267,158,403,323,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1059.jpg 293,138,418,267,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/106.jpg 317,58,612,438,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1060.jpg 338,30,460,178,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1061.jpg 222,116,367,261,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1062.jpg 353,46,653,408,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1063.jpg 391,178,711,530,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1064.jpg 289,113,409,243,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1065.jpg 168,119,894,1007,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1066.jpg 205,19,306,132,1 617,45,900,361,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1067.jpg 205,178,743,936,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1068.jpg 251,88,371,231,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1069.jpg 291,89,434,246,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/107.jpg 349,66,561,292,0 731,99,914,320,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1070.jpg 407,42,754,438,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1071.jpg 341,126,443,247,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1072.jpg 271,105,406,261,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1073.jpg 246,46,592,431,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1074.jpg 234,86,788,825,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1075.jpg 284,154,406,323,1 569,91,743,300,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1076.jpg 290,106,414,244,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1077.jpg 309,210,711,738,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1078.jpg 274,58,311,104,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1079.jpg 358,119,539,360,1 532,66,700,310,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/108.jpg 215,11,492,346,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1080.jpg 306,121,617,510,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1081.jpg 416,42,584,245,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1082.jpg 358,99,683,531,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1083.jpg 445,124,717,454,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1084.jpg 228,140,372,306,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1085.jpg 168,41,249,131,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1086.jpg 275,105,383,220,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1087.jpg 324,153,452,302,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1088.jpg 172,92,668,757,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1089.jpg 249,120,760,778,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/109.jpg 280,43,531,403,0 705,299,861,495,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1090.jpg 69,185,818,1214,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1091.jpg 251,166,752,749,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1092.jpg 306,29,433,190,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1093.jpg 248,175,393,328,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1094.jpg 200,1,743,706,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1095.jpg 441,20,652,301,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1096.jpg 285,109,410,279,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1097.jpg 329,132,469,279,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1098.jpg 30,9,346,321,1 702,21,1024,393,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1099.jpg 285,129,388,238,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/11.jpg 381,38,597,305,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/110.jpg 359,5,669,334,0 235,248,327,344,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1100.jpg 228,135,864,988,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1101.jpg 278,238,758,827,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1102.jpg 200,117,772,878,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1103.jpg 80,35,280,242,1 669,72,839,273,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1104.jpg 284,116,408,252,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1105.jpg 285,129,418,282,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1106.jpg 239,91,849,832,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1107.jpg 269,67,739,649,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1108.jpg 279,121,426,267,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1109.jpg 227,92,756,729,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/111.jpg 118,28,333,349,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1110.jpg 285,155,423,304,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1111.jpg 201,95,388,339,1 586,20,818,295,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1112.jpg 237,78,278,133,1 281,58,322,103,1 336,4,383,66,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1113.jpg 333,228,719,732,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1114.jpg 306,130,419,265,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1115.jpg 231,79,662,601,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1116.jpg 306,193,410,310,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1117.jpg 637,131,874,417,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1118.jpg 362,151,679,568,1 3,300,214,556,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1119.jpg 235,78,464,386,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/112.jpg 27,9,366,313,0 424,33,765,414,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1120.jpg 125,23,289,219,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1121.jpg 304,156,404,279,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1122.jpg 103,24,239,168,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1123.jpg 139,19,235,143,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1124.jpg 297,146,635,499,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1125.jpg 12,3,223,217,1 415,177,561,333,1 615,119,754,295,1 798,39,971,249,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1126.jpg 385,64,561,304,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1127.jpg 329,126,447,262,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1128.jpg 270,94,405,262,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1129.jpg 261,152,719,733,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/113.jpg 433,21,638,266,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1130.jpg 270,31,494,255,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1131.jpg 278,166,394,280,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1132.jpg 77,156,241,348,1 267,192,450,361,1 637,308,761,446,1 769,99,941,274,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1133.jpg 167,37,345,262,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1134.jpg 258,198,365,338,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1135.jpg 105,130,141,175,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1136.jpg 148,127,185,179,1 95,197,127,234,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1137.jpg 281,104,400,241,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1138.jpg 292,106,714,612,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1139.jpg 356,48,675,452,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/114.jpg 257,34,566,388,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1140.jpg 251,128,791,912,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1141.jpg 265,15,816,697,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1142.jpg 228,96,392,286,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1143.jpg 146,96,263,237,1 355,166,495,306,1 747,121,901,281,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1144.jpg 423,51,654,294,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1145.jpg 456,60,743,390,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1146.jpg 268,123,404,267,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1147.jpg 133,79,255,237,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1148.jpg 91,8,200,124,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1149.jpg 170,137,227,202,1 316,123,375,199,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/115.jpg 474,98,637,295,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1150.jpg 255,149,383,265,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1151.jpg 246,99,387,282,1 390,120,519,273,1 704,29,834,195,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1152.jpg 318,85,432,213,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1153.jpg 197,103,810,833,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1154.jpg 274,112,408,279,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1155.jpg 326,128,426,241,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1156.jpg 269,95,401,247,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1157.jpg 221,95,389,295,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1158.jpg 383,120,924,875,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1159.jpg 245,133,383,280,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/116.jpg 353,36,569,325,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1160.jpg 60,2,179,125,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1161.jpg 307,109,417,236,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1162.jpg 439,76,737,403,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1163.jpg 316,182,658,604,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1164.jpg 61,126,121,206,1 184,117,251,193,1 350,115,439,215,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/1165.jpg 283,117,666,575,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/117.jpg 210,28,491,371,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/118.jpg 431,70,557,235,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/119.jpg 372,171,574,462,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/12.jpg 90,109,300,347,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/120.jpg 450,78,655,369,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/121.jpg 463,64,611,228,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/122.jpg 287,62,556,358,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/123.jpg 402,21,626,281,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/124.jpg 300,38,492,291,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/125.jpg 349,181,384,221,0 845,165,960,297,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/126.jpg 362,81,624,360,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/127.jpg 237,2,532,246,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/128.jpg 393,77,525,252,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/129.jpg 271,103,398,239,0 753,21,958,221,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/13.jpg 539,33,749,343,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/130.jpg 386,67,630,375,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/131.jpg 404,48,602,316,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/132.jpg 357,41,459,179,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/133.jpg 461,144,744,441,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/134.jpg 388,148,560,397,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/135.jpg 522,102,766,375,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/136.jpg 56,123,192,293,0 277,36,406,184,0 443,61,585,262,0 771,42,897,209,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/137.jpg 403,17,705,374,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/138.jpg 359,1,649,342,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/139.jpg 344,94,529,332,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/14.jpg 404,102,566,303,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/140.jpg 185,32,395,309,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/141.jpg 485,24,743,370,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/142.jpg 325,19,588,358,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/143.jpg 351,85,408,144,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/144.jpg 254,90,347,215,0 648,90,756,207,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/145.jpg 476,43,741,395,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/146.jpg 388,27,633,354,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/147.jpg 28,1,565,464,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/148.jpg 504,86,690,279,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/149.jpg 425,26,641,265,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/15.jpg 267,58,430,250,0 550,1,821,224,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/150.jpg 414,10,629,304,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/151.jpg 486,87,750,451,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/152.jpg 220,11,543,460,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/153.jpg 494,26,765,322,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/154.jpg 293,28,543,353,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/155.jpg 463,28,773,363,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/156.jpg 394,42,643,375,0 114,18,339,251,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/157.jpg 334,22,600,325,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/158.jpg 81,49,372,414,0 525,41,784,381,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/159.jpg 350,81,557,366,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/16.jpg 540,32,699,209,0 794,131,834,172,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/160.jpg 349,129,514,342,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/161.jpg 437,22,624,270,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/162.jpg 413,145,622,366,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/163.jpg 544,82,651,216,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/164.jpg 408,112,582,299,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/165.jpg 412,55,607,277,0 773,173,960,442,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/166.jpg 239,3,563,372,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/167.jpg 461,77,654,331,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/168.jpg 161,20,435,398,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/169.jpg 447,27,541,140,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/17.jpg 530,19,777,341,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/170.jpg 289,60,496,324,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/171.jpg 225,83,408,327,0 615,155,785,336,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/172.jpg 371,48,571,256,0 827,121,910,206,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/173.jpg 222,21,586,446,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/174.jpg 293,5,464,202,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/175.jpg 422,115,553,263,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/176.jpg 521,89,695,300,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/177.jpg 136,53,285,231,0 639,63,769,209,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/178.jpg 390,111,565,339,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/179.jpg 395,24,657,330,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/18.jpg 282,120,423,311,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/180.jpg 336,32,557,352,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/181.jpg 529,55,729,291,0 371,119,427,184,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/182.jpg 396,56,608,325,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/183.jpg 411,212,473,287,0 763,154,890,295,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/184.jpg 327,131,455,279,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/185.jpg 251,74,455,340,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/186.jpg 386,142,574,387,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/187.jpg 378,27,608,322,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/188.jpg 359,39,613,373,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/189.jpg 167,108,363,326,0 543,43,773,298,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/19.jpg 255,158,388,339,0 576,190,734,346,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/190.jpg 149,181,259,287,0 618,103,780,254,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/191.jpg 349,55,458,191,0 729,201,874,351,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/192.jpg 433,128,549,265,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/193.jpg 490,87,739,377,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/194.jpg 388,126,568,334,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/195.jpg 406,104,478,177,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/196.jpg 257,19,532,376,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/197.jpg 285,15,597,408,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/198.jpg 372,138,578,383,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/199.jpg 257,25,523,428,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/2.jpg 344,30,709,464,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/20.jpg 310,106,453,254,0 475,72,584,222,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/200.jpg 352,45,575,356,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/201.jpg 567,97,755,298,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/202.jpg 345,1,622,441,0 784,283,898,443,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/203.jpg 416,59,571,256,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/204.jpg 328,190,395,268,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/205.jpg 414,83,689,388,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/206.jpg 145,128,219,220,0 231,170,286,234,0 386,187,433,239,0 554,122,618,200,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/207.jpg 414,4,643,287,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/208.jpg 469,100,682,304,0 299,313,419,438,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/209.jpg 252,84,552,434,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/21.jpg 314,15,534,284,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/210.jpg 227,3,518,367,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/211.jpg 459,15,704,303,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/212.jpg 231,49,548,415,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/213.jpg 178,1,522,374,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/214.jpg 431,17,668,306,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/215.jpg 365,17,537,221,0 706,189,958,448,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/216.jpg 459,7,792,417,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/217.jpg 396,17,589,246,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/218.jpg 49,104,137,201,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/219.jpg 508,68,723,355,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/22.jpg 226,57,465,356,0 658,36,871,323,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/220.jpg 16,115,161,303,0 282,181,414,362,0 566,229,686,384,0 765,170,905,354,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/221.jpg 215,43,353,189,0 674,66,793,201,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/222.jpg 220,60,429,354,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/223.jpg 586,53,736,253,0 194,65,386,332,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/224.jpg 365,59,576,342,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/225.jpg 192,83,442,398,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/226.jpg 239,63,402,257,0 543,215,646,319,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/227.jpg 328,3,652,386,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/228.jpg 237,5,425,202,0 692,183,881,401,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/229.jpg 515,107,646,257,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/23.jpg 227,87,347,240,0 569,101,698,253,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/230.jpg 453,81,712,391,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/231.jpg 251,22,564,422,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/232.jpg 361,4,743,391,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/233.jpg 457,1,812,401,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/234.jpg 263,4,582,383,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/235.jpg 312,39,571,385,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/236.jpg 384,45,594,287,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/237.jpg 451,113,691,368,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/238.jpg 440,89,598,286,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/239.jpg 359,37,635,395,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/24.jpg 520,1,833,403,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/240.jpg 41,7,449,477,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/241.jpg 216,54,437,347,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/242.jpg 96,90,188,206,0 610,105,729,256,0 772,116,861,219,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/243.jpg 365,44,500,213,0 624,52,783,224,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/244.jpg 196,13,516,442,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/245.jpg 366,62,573,305,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/246.jpg 374,54,750,498,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/247.jpg 324,109,560,447,0 98,350,264,525,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/248.jpg 186,3,544,373,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/249.jpg 151,107,261,231,0 568,252,631,326,0 708,242,803,342,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/25.jpg 518,39,689,268,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/250.jpg 298,83,473,293,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/251.jpg 299,25,539,332,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/252.jpg 442,55,659,328,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/253.jpg 375,119,496,264,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/254.jpg 354,11,679,344,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/255.jpg 290,61,548,379,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/256.jpg 423,69,664,340,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/257.jpg 444,48,639,273,0 288,279,333,332,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/258.jpg 196,2,504,377,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/259.jpg 251,111,371,262,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/26.jpg 186,1,563,493,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/260.jpg 403,50,573,291,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/261.jpg 412,25,707,454,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/262.jpg 310,68,569,379,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/263.jpg 294,50,610,413,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/264.jpg 438,37,667,319,0 232,301,291,358,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/265.jpg 397,56,560,248,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/266.jpg 478,85,613,262,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/267.jpg 109,163,291,373,0 712,268,874,448,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/268.jpg 468,66,651,307,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/269.jpg 242,79,467,314,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/27.jpg 416,47,658,335,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/270.jpg 353,56,578,325,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/271.jpg 157,120,349,338,0 463,42,684,320,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/272.jpg 361,103,493,264,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/273.jpg 282,5,510,313,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/274.jpg 170,98,320,284,0 572,94,739,240,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/275.jpg 207,81,493,439,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/276.jpg 361,50,714,513,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/277.jpg 287,6,566,376,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/278.jpg 387,13,616,344,0 629,40,835,323,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/279.jpg 430,36,530,172,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/28.jpg 373,54,591,352,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/280.jpg 418,24,669,314,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/281.jpg 194,156,379,393,0 471,8,735,252,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/282.jpg 247,5,515,413,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/283.jpg 304,60,490,279,0 510,65,701,311,0 14,113,106,215,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/284.jpg 430,28,655,305,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/285.jpg 401,130,595,357,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/286.jpg 245,55,488,383,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/287.jpg 364,141,683,499,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/288.jpg 413,26,527,155,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/289.jpg 250,50,455,342,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/29.jpg 322,146,476,361,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/290.jpg 273,5,654,401,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/291.jpg 351,118,574,397,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/292.jpg 455,205,548,316,0 676,108,873,286,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/293.jpg 446,164,527,246,0 835,249,892,305,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/294.jpg 413,68,592,324,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/295.jpg 331,63,594,356,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/296.jpg 424,88,611,276,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/297.jpg 471,63,691,349,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/298.jpg 345,32,627,449,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/299.jpg 430,171,529,305,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/3.jpg 302,24,487,289,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/30.jpg 371,77,588,387,0 228,257,281,312,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/300.jpg 206,68,522,425,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/301.jpg 429,120,629,365,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/302.jpg 401,68,525,219,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/303.jpg 350,1,647,348,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/304.jpg 292,90,561,403,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/305.jpg 137,61,429,425,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/306.jpg 293,6,610,377,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/307.jpg 357,22,722,439,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/308.jpg 142,1,555,382,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/309.jpg 459,11,794,414,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/31.jpg 357,64,518,268,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/310.jpg 184,116,288,247,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/311.jpg 217,113,345,261,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/312.jpg 415,152,569,334,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/313.jpg 482,94,657,308,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/314.jpg 430,79,667,448,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/315.jpg 380,42,555,263,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/316.jpg 441,68,654,287,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/317.jpg 298,77,551,378,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/318.jpg 440,78,633,302,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/319.jpg 445,17,706,305,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/32.jpg 274,58,520,355,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/320.jpg 214,7,504,356,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/321.jpg 488,28,678,215,0 255,1,384,141,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/322.jpg 459,27,731,307,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/323.jpg 303,12,678,496,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/324.jpg 427,88,646,344,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/325.jpg 439,21,672,340,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/326.jpg 406,44,605,320,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/327.jpg 434,6,788,421,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/328.jpg 437,113,554,262,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/329.jpg 104,23,390,370,0 602,11,877,362,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/33.jpg 298,1,460,195,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/330.jpg 231,44,482,342,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/331.jpg 372,54,555,278,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/332.jpg 416,113,517,238,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/333.jpg 422,168,594,369,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/334.jpg 351,31,604,354,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/335.jpg 291,46,414,187,0 663,50,802,220,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/336.jpg 530,123,627,236,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/337.jpg 378,39,635,347,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/338.jpg 581,68,757,258,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/339.jpg 539,34,789,354,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/34.jpg 644,89,837,326,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/340.jpg 361,22,564,259,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/341.jpg 418,34,631,313,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/342.jpg 310,46,572,378,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/343.jpg 362,26,632,369,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/344.jpg 543,78,737,324,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/345.jpg 491,24,630,212,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/346.jpg 436,75,641,348,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/347.jpg 201,86,309,210,0 639,94,749,208,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/348.jpg 482,17,853,446,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/349.jpg 363,66,593,362,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/35.jpg 222,41,547,339,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/350.jpg 242,64,457,348,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/351.jpg 235,33,510,358,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/352.jpg 643,79,884,309,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/353.jpg 288,24,500,324,0 620,146,899,446,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/354.jpg 445,56,675,315,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/355.jpg 265,18,527,351,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/356.jpg 470,68,638,285,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/357.jpg 450,99,609,283,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/358.jpg 513,93,765,422,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/359.jpg 305,45,557,364,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/36.jpg 368,70,555,313,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/360.jpg 296,36,524,321,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/361.jpg 371,37,458,146,0 550,59,650,162,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/362.jpg 172,19,422,341,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/363.jpg 243,177,362,316,0 527,29,702,228,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/364.jpg 314,43,508,277,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/365.jpg 300,95,541,376,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/366.jpg 582,128,808,409,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/367.jpg 390,43,594,278,0 10,188,225,505,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/368.jpg 357,8,617,365,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/369.jpg 218,1,625,384,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/37.jpg 380,48,543,251,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/370.jpg 324,10,563,290,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/371.jpg 315,43,695,473,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/372.jpg 527,138,679,305,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/373.jpg 336,72,579,368,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/374.jpg 355,75,490,226,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/375.jpg 392,102,543,276,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/376.jpg 361,22,712,409,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/377.jpg 383,95,556,287,0 785,19,921,162,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/378.jpg 437,44,575,213,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/379.jpg 366,81,557,321,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/38.jpg 412,116,567,291,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/380.jpg 83,21,490,445,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/381.jpg 299,52,548,374,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/382.jpg 350,87,515,250,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/383.jpg 409,120,554,284,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/384.jpg 491,38,708,269,0 378,265,424,313,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/385.jpg 342,13,611,377,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/386.jpg 299,49,559,367,0 567,186,681,323,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/387.jpg 502,27,704,273,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/388.jpg 373,99,566,352,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/389.jpg 470,24,785,422,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/39.jpg 202,1,608,379,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/390.jpg 411,148,569,316,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/391.jpg 405,62,690,395,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/392.jpg 247,77,506,428,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/393.jpg 98,22,463,442,0 708,175,960,443,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/394.jpg 610,48,793,244,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/395.jpg 259,52,411,236,0 628,156,763,280,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/396.jpg 90,126,253,309,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/397.jpg 200,59,419,344,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/398.jpg 345,56,461,190,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/399.jpg 462,130,578,269,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/4.jpg 250,128,400,289,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/40.jpg 389,101,590,299,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/400.jpg 492,62,650,247,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/401.jpg 127,99,401,426,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/402.jpg 290,33,472,254,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/403.jpg 290,142,533,417,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/404.jpg 394,58,559,258,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/405.jpg 288,60,577,407,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/406.jpg 351,117,542,354,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/407.jpg 293,12,606,352,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/408.jpg 380,46,688,445,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/409.jpg 369,54,574,338,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/41.jpg 378,62,612,385,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/410.jpg 305,52,676,473,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/411.jpg 229,1,474,276,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/412.jpg 448,42,701,352,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/413.jpg 422,148,522,259,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/414.jpg 325,22,606,379,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/415.jpg 282,11,566,367,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/416.jpg 381,68,599,357,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/417.jpg 369,21,630,338,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/418.jpg 423,66,562,229,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/419.jpg 429,7,689,339,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/42.jpg 384,77,538,295,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/420.jpg 388,128,571,372,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/421.jpg 398,99,600,345,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/422.jpg 445,38,635,281,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/423.jpg 401,90,562,266,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/424.jpg 635,17,784,185,0 161,48,226,110,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/425.jpg 416,83,653,403,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/426.jpg 433,60,663,317,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/427.jpg 506,85,698,275,0 362,279,457,374,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/428.jpg 567,99,702,261,0 210,96,369,258,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/429.jpg 570,34,699,183,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/43.jpg 483,6,835,413,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/430.jpg 585,144,650,218,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/431.jpg 320,42,635,408,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/432.jpg 406,60,497,172,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/433.jpg 151,8,433,363,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/434.jpg 343,34,433,132,0 588,70,677,163,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/435.jpg 304,225,390,339,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/436.jpg 367,11,569,221,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/437.jpg 384,64,606,283,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/438.jpg 359,44,642,354,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/439.jpg 249,28,619,489,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/44.jpg 456,87,576,249,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/440.jpg 418,57,576,265,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/441.jpg 443,48,655,341,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/442.jpg 353,21,537,234,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/443.jpg 146,89,293,242,0 660,7,796,155,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/444.jpg 394,100,590,317,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/445.jpg 288,105,438,267,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/446.jpg 406,91,595,313,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/447.jpg 486,106,665,279,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/448.jpg 282,60,459,277,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/449.jpg 355,128,484,262,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/45.jpg 409,43,734,354,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/450.jpg 206,2,556,393,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/451.jpg 239,70,451,340,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/452.jpg 373,1,676,266,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/453.jpg 282,109,496,372,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/454.jpg 337,99,598,413,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/455.jpg 409,82,551,246,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/456.jpg 475,60,692,322,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/457.jpg 202,42,533,391,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/458.jpg 402,11,809,447,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/459.jpg 447,72,660,317,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/46.jpg 247,78,531,487,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/460.jpg 342,96,468,232,0 624,183,665,230,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/461.jpg 416,74,618,336,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/462.jpg 337,44,520,252,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/463.jpg 265,8,521,319,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/464.jpg 248,7,620,371,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/465.jpg 321,83,455,286,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/466.jpg 785,157,832,201,0 321,218,345,240,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/467.jpg 341,24,576,324,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/468.jpg 426,5,677,293,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/469.jpg 627,87,764,239,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/47.jpg 310,2,585,452,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/470.jpg 382,68,513,217,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/471.jpg 480,177,552,250,0 876,242,942,292,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/472.jpg 194,55,368,260,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/473.jpg 359,69,730,505,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/474.jpg 275,1,546,422,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/475.jpg 408,74,573,260,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/476.jpg 489,83,624,230,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/477.jpg 397,85,568,272,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/478.jpg 276,79,398,248,0 598,142,732,296,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/479.jpg 310,4,602,352,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/48.jpg 259,31,490,326,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/480.jpg 361,72,617,386,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/481.jpg 256,36,472,300,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/482.jpg 375,72,564,320,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/483.jpg 510,90,669,246,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/484.jpg 314,75,556,373,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/485.jpg 392,66,576,254,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/486.jpg 406,65,620,274,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/487.jpg 403,70,563,250,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/488.jpg 237,85,430,321,0 538,72,692,274,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/489.jpg 261,65,417,260,0 595,48,923,448,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/49.jpg 447,215,526,302,0 380,217,414,255,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/490.jpg 381,7,735,431,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/491.jpg 418,87,525,217,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/492.jpg 201,1,531,399,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/493.jpg 96,54,345,336,0 629,66,871,313,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/494.jpg 300,4,580,357,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/495.jpg 514,34,763,401,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/496.jpg 496,49,790,368,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/497.jpg 419,25,600,261,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/498.jpg 241,7,496,324,0 665,116,820,309,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/499.jpg 238,62,497,313,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/5.jpg 400,70,560,243,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/50.jpg 445,15,702,370,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/500.jpg 392,39,650,336,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/501.jpg 693,98,800,211,0 222,81,329,207,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/502.jpg 337,95,537,358,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/503.jpg 425,50,532,173,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/504.jpg 414,48,559,224,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/505.jpg 20,1,579,444,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/506.jpg 360,146,471,262,0 38,66,109,145,0 649,14,715,86,0 221,54,291,124,1 357,47,488,154,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/507.jpg 486,55,708,340,0 231,1,357,108,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/508.jpg 224,161,431,370,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/509.jpg 278,58,535,403,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/51.jpg 478,54,662,279,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/510.jpg 319,230,418,362,0 804,308,827,336,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/511.jpg 249,67,506,372,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/512.jpg 371,20,649,336,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/513.jpg 398,13,586,202,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/514.jpg 343,91,508,287,0 602,275,768,450,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/515.jpg 282,99,390,228,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/516.jpg 371,34,530,238,1 575,64,712,248,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/517.jpg 319,109,577,450,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/518.jpg 171,93,343,314,1 674,82,825,259,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/519.jpg 306,182,392,280,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/52.jpg 96,2,399,344,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/520.jpg 320,75,587,380,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/521.jpg 320,162,406,259,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/522.jpg 90,36,144,99,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/523.jpg 285,183,390,313,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/524.jpg 285,122,398,249,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/525.jpg 225,129,788,749,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/526.jpg 268,121,379,234,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/527.jpg 305,125,419,242,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/528.jpg 379,66,734,506,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/529.jpg 366,52,693,451,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/53.jpg 433,148,600,356,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/530.jpg 257,99,780,823,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/531.jpg 265,132,384,299,1 550,124,675,274,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/532.jpg 379,96,562,323,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/533.jpg 268,120,376,242,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/534.jpg 454,108,590,307,1 28,166,157,343,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/535.jpg 386,117,583,422,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/536.jpg 443,124,582,306,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/537.jpg 225,142,711,727,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/538.jpg 278,167,373,289,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/539.jpg 421,142,561,308,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/54.jpg 341,79,591,364,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/540.jpg 406,63,578,324,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/541.jpg 238,33,390,209,1 689,34,846,226,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/542.jpg 345,107,797,681,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/543.jpg 191,150,308,278,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/544.jpg 281,142,788,835,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/545.jpg 209,287,300,386,1 378,132,503,272,1 619,191,754,344,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/546.jpg 317,125,425,240,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/547.jpg 461,129,621,317,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/548.jpg 285,134,701,659,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/549.jpg 261,150,399,316,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/55.jpg 485,83,582,223,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/550.jpg 119,92,233,216,1 355,113,454,239,1 549,91,661,226,1 772,29,872,173,1 495,490,603,626,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/551.jpg 318,193,434,310,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/552.jpg 227,133,800,944,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/553.jpg 145,30,698,735,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/554.jpg 313,89,667,597,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/555.jpg 175,96,729,962,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/556.jpg 199,92,782,881,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/557.jpg 186,12,278,130,1 631,35,853,310,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/558.jpg 264,149,410,293,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/559.jpg 111,11,215,155,1 53,165,173,288,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/56.jpg 347,152,541,378,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/560.jpg 311,130,411,253,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/561.jpg 282,137,421,298,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/562.jpg 124,14,297,234,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/563.jpg 623,63,785,264,1 463,62,604,267,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/564.jpg 272,188,361,285,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/565.jpg 360,111,618,442,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/566.jpg 128,173,206,272,1 268,180,333,248,1 219,85,291,183,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/567.jpg 280,74,406,236,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/568.jpg 396,111,519,297,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/569.jpg 325,173,724,687,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/57.jpg 341,66,496,267,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/570.jpg 469,78,610,280,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/571.jpg 46,127,516,788,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/572.jpg 165,35,220,122,1 6,60,75,156,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/573.jpg 411,41,581,263,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/574.jpg 128,253,224,366,1 439,244,548,373,1 850,244,944,370,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/575.jpg 323,34,477,239,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/576.jpg 290,79,401,223,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/577.jpg 388,175,589,434,1 694,333,921,606,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/578.jpg 158,143,843,973,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/579.jpg 534,148,666,323,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/58.jpg 261,2,569,369,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/580.jpg 238,186,441,465,1 510,86,721,358,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/581.jpg 341,59,580,384,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/582.jpg 318,39,431,181,1 251,23,286,69,1 9,14,54,68,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/583.jpg 69,88,106,123,1 145,81,179,125,1 212,100,240,136,1 297,101,329,146,1 347,94,379,141,1 390,84,433,134,1 231,156,274,206,1 164,161,200,214,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/584.jpg 266,214,637,621,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/585.jpg 272,171,404,311,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/586.jpg 402,40,567,285,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/587.jpg 179,132,230,201,1 245,139,302,206,1 204,50,260,124,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/588.jpg 153,16,617,571,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/589.jpg 164,104,323,303,1 700,18,892,249,1 461,235,547,338,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/59.jpg 508,59,696,305,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/590.jpg 289,105,936,967,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/591.jpg 263,136,397,289,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/592.jpg 294,125,412,257,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/593.jpg 282,106,395,231,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/594.jpg 261,156,396,321,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/595.jpg 346,221,793,800,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/596.jpg 195,179,552,637,1 629,446,814,656,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/597.jpg 49,87,168,231,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/598.jpg 335,121,733,649,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/599.jpg 307,124,434,260,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/6.jpg 271,209,336,298,0 696,30,830,168,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/60.jpg 337,11,606,358,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/600.jpg 143,11,853,721,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/601.jpg 181,99,321,282,1 390,24,533,216,1 767,96,907,252,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/602.jpg 406,116,548,291,1 632,123,788,298,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/603.jpg 286,93,436,291,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/604.jpg 285,59,412,197,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/605.jpg 373,57,580,298,1 740,32,960,288,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/606.jpg 283,178,771,766,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/607.jpg 313,118,445,257,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/608.jpg 257,48,590,526,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/609.jpg 282,270,458,509,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/61.jpg 494,81,615,207,0 138,181,216,260,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/610.jpg 212,56,423,321,1 449,28,687,313,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/611.jpg 331,30,538,298,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/612.jpg 274,121,388,263,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/613.jpg 110,110,195,229,1 262,118,334,211,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/614.jpg 484,263,766,690,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/615.jpg 342,137,454,266,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/616.jpg 300,146,409,272,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/617.jpg 243,191,352,319,1 517,151,645,312,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/618.jpg 283,120,384,246,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/619.jpg 291,107,383,217,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/62.jpg 471,107,623,295,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/620.jpg 222,92,375,288,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/621.jpg 308,132,442,297,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/622.jpg 291,165,384,274,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/623.jpg 206,90,294,195,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/624.jpg 289,139,401,271,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/625.jpg 297,71,588,467,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/626.jpg 194,110,616,669,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/627.jpg 282,110,391,253,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/628.jpg 625,84,752,228,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/629.jpg 318,108,464,291,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/63.jpg 196,68,348,244,0 479,44,607,196,0 754,20,889,211,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/630.jpg 1,61,150,237,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/631.jpg 279,140,407,288,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/632.jpg 207,69,362,247,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/633.jpg 307,173,497,439,1 670,219,842,435,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/634.jpg 377,196,708,699,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/635.jpg 288,151,394,279,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/636.jpg 284,89,398,231,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/637.jpg 218,44,501,424,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/638.jpg 376,145,616,409,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/639.jpg 278,98,379,228,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/64.jpg 407,48,604,285,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/640.jpg 354,95,691,550,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/641.jpg 314,49,551,372,1 602,65,835,370,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/642.jpg 269,142,505,461,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/643.jpg 274,33,882,993,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/644.jpg 105,119,791,1052,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/645.jpg 188,173,313,349,1 347,216,468,368,1 536,275,657,416,1 732,162,886,356,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/646.jpg 257,105,394,271,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/647.jpg 151,164,189,208,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/648.jpg 238,197,818,942,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/649.jpg 1,81,98,263,1 115,184,180,264,1 337,74,383,139,1 431,162,484,222,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/65.jpg 332,89,627,450,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/650.jpg 291,114,778,746,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/651.jpg 287,127,384,239,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/652.jpg 284,100,517,388,1 559,100,777,389,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/653.jpg 306,97,732,669,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/654.jpg 332,123,464,337,1 624,242,766,429,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/655.jpg 388,203,524,367,1 793,211,928,382,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/656.jpg 409,18,592,235,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/657.jpg 127,94,274,275,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/658.jpg 155,113,292,284,1 600,10,794,216,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/659.jpg 318,135,425,259,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/66.jpg 256,22,520,329,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/660.jpg 304,140,398,247,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/661.jpg 197,59,317,226,1 310,150,419,297,1 449,112,523,256,1 530,179,608,296,1 625,134,711,270,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/662.jpg 336,15,718,514,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/663.jpg 194,24,435,307,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/664.jpg 293,45,797,708,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/665.jpg 273,108,747,789,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/666.jpg 325,129,437,247,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/667.jpg 295,126,449,279,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/668.jpg 79,55,146,135,1 283,42,345,120,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/669.jpg 331,132,440,248,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/67.jpg 370,53,641,385,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/670.jpg 245,122,387,283,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/671.jpg 360,92,602,425,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/672.jpg 326,130,658,569,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/673.jpg 485,265,529,311,1 625,256,676,304,1 742,260,780,307,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/674.jpg 220,77,569,569,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/675.jpg 259,84,407,272,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/676.jpg 78,8,748,730,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/677.jpg 299,104,425,290,1 477,32,617,209,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/678.jpg 120,31,251,172,1 362,173,463,308,1 531,172,649,300,1 792,112,911,253,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/679.jpg 65,70,158,179,1 225,129,299,216,1 336,146,426,251,1 453,81,525,174,1 538,136,626,250,1 684,132,773,240,1 847,104,938,224,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/68.jpg 339,13,598,360,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/680.jpg 320,123,453,316,1 554,43,718,239,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/681.jpg 247,197,347,312,1 535,187,643,324,1 755,57,905,275,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/682.jpg 287,152,407,287,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/683.jpg 395,140,527,326,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/684.jpg 335,93,455,222,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/685.jpg 234,82,387,259,1 566,75,708,247,1 830,96,905,176,1 75,133,143,191,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/686.jpg 352,90,613,426,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/687.jpg 388,24,487,139,1 585,46,668,127,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/688.jpg 268,192,370,305,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/689.jpg 231,74,314,177,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/69.jpg 316,29,510,272,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/690.jpg 303,153,417,289,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/691.jpg 385,59,624,398,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/692.jpg 309,4,361,56,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/693.jpg 173,117,623,682,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/694.jpg 412,86,575,295,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/695.jpg 283,108,726,691,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/696.jpg 350,92,660,507,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/697.jpg 352,133,455,254,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/698.jpg 250,119,379,266,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/699.jpg 296,128,789,782,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/7.jpg 206,73,330,191,0 649,197,752,315,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/70.jpg 379,4,567,209,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/700.jpg 272,58,689,625,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/701.jpg 295,111,411,243,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/702.jpg 305,134,412,257,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/703.jpg 147,48,216,130,1 303,40,370,119,1 476,38,549,125,1 610,30,680,113,1 726,59,791,142,1 859,25,938,112,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/704.jpg 185,85,401,395,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/705.jpg 300,121,427,262,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/706.jpg 175,123,847,914,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/707.jpg 94,145,175,228,1 243,174,314,264,1 385,206,454,284,1 515,160,599,245,1 672,108,748,196,1 829,89,900,172,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/708.jpg 439,86,538,195,1 687,144,768,257,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/709.jpg 324,126,436,247,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/71.jpg 2,148,256,464,0 506,22,863,416,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/710.jpg 357,48,615,364,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/711.jpg 109,40,214,170,1 208,147,281,236,1 352,110,463,216,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/712.jpg 250,150,646,638,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/713.jpg 244,153,351,262,1 417,133,526,267,1 593,20,678,126,1 706,148,806,273,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/714.jpg 243,92,358,223,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/715.jpg 486,125,826,599,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/716.jpg 226,108,372,265,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/717.jpg 399,110,682,458,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/718.jpg 271,86,396,260,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/719.jpg 241,70,706,640,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/72.jpg 273,13,612,444,0 816,242,918,394,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/720.jpg 357,140,597,430,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/721.jpg 99,60,196,199,1 391,70,487,203,1 784,41,883,174,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/722.jpg 310,129,417,245,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/723.jpg 305,119,688,619,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/724.jpg 124,112,186,193,1 209,97,277,176,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/725.jpg 186,50,333,215,1 759,11,960,223,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/726.jpg 237,164,357,303,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/727.jpg 155,92,604,622,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/728.jpg 271,116,382,236,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/729.jpg 209,48,784,828,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/73.jpg 235,79,358,213,0 591,125,731,282,0 816,240,861,299,0 843,204,886,254,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/730.jpg 278,130,387,255,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/731.jpg 383,71,636,369,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/732.jpg 299,122,430,266,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/733.jpg 359,48,520,238,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/734.jpg 368,111,666,563,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/735.jpg 236,96,689,642,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/736.jpg 311,152,436,292,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/737.jpg 337,124,469,259,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/738.jpg 294,98,400,218,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/739.jpg 411,174,498,304,1 524,57,650,197,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/74.jpg 245,63,424,266,0 629,129,720,246,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/740.jpg 430,121,714,433,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/741.jpg 353,93,566,390,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/742.jpg 18,154,97,229,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/743.jpg 301,143,428,309,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/744.jpg 119,13,508,550,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/745.jpg 279,175,397,312,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/746.jpg 214,132,345,288,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/747.jpg 107,111,211,238,1 345,135,436,243,1 675,151,765,258,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/748.jpg 279,148,664,594,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/749.jpg 130,3,259,131,1 252,85,348,189,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/75.jpg 304,65,520,336,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/750.jpg 297,142,334,191,1 238,164,277,206,1 177,145,216,191,1 103,174,147,217,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/751.jpg 286,99,418,254,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/752.jpg 502,102,725,344,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/753.jpg 383,214,650,619,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/754.jpg 212,147,319,284,1 634,53,798,220,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/755.jpg 301,143,395,263,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/756.jpg 343,170,423,264,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/757.jpg 284,83,427,227,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/758.jpg 287,156,393,275,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/759.jpg 337,151,434,281,1 632,143,743,283,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/76.jpg 319,66,559,365,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/760.jpg 247,172,386,300,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/761.jpg 299,31,444,215,1 544,10,699,173,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/762.jpg 389,113,706,533,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/763.jpg 251,103,401,274,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/764.jpg 250,110,737,682,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/765.jpg 230,129,325,233,1 388,188,435,244,1 693,106,760,173,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/766.jpg 491,38,815,424,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/767.jpg 422,83,691,406,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/768.jpg 276,93,797,866,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/769.jpg 307,114,433,246,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/77.jpg 518,70,743,343,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/770.jpg 188,62,333,238,1 446,21,611,198,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/771.jpg 267,41,498,359,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/772.jpg 203,226,693,941,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/773.jpg 270,94,392,233,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/774.jpg 318,118,432,246,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/775.jpg 263,138,385,280,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/776.jpg 324,84,439,242,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/777.jpg 211,78,869,1061,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/778.jpg 392,60,739,484,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/779.jpg 52,74,191,265,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/78.jpg 274,58,516,383,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/780.jpg 255,88,393,249,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/781.jpg 300,141,425,286,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/782.jpg 422,532,666,791,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/783.jpg 171,82,353,274,1 642,80,829,295,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/784.jpg 143,72,213,154,1 205,70,275,155,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/785.jpg 308,83,451,239,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/786.jpg 342,117,424,218,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/787.jpg 376,148,473,273,1 520,160,626,293,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/788.jpg 177,79,238,155,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/789.jpg 303,83,621,472,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/79.jpg 376,44,676,440,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/790.jpg 329,95,700,641,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/791.jpg 143,71,212,160,1 337,132,402,202,1 543,127,602,210,1 721,99,790,185,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/792.jpg 271,112,415,289,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/793.jpg 302,44,483,285,1 541,245,725,483,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/794.jpg 303,103,802,782,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/795.jpg 267,156,396,300,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/796.jpg 292,126,429,270,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/797.jpg 235,134,355,265,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/798.jpg 196,81,362,275,1 520,68,702,275,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/799.jpg 148,6,289,195,1 323,53,478,224,1 810,18,983,225,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/8.jpg 44,148,106,219,0 170,142,225,211,0 326,118,385,191,0 428,150,475,220,0 522,155,575,227,0 605,151,657,222,0 778,206,853,297,0 576,255,635,337,0 359,233,425,313,0 204,235,289,310,0 82,228,155,311,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/80.jpg 410,80,633,377,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/800.jpg 252,115,384,268,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/801.jpg 288,58,655,492,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/802.jpg 251,186,769,860,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/803.jpg 226,89,385,252,1 741,19,960,258,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/804.jpg 274,98,431,266,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/805.jpg 297,158,392,276,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/806.jpg 283,95,402,236,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/807.jpg 316,150,843,742,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/808.jpg 241,11,469,264,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/809.jpg 342,82,819,653,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/81.jpg 385,256,472,358,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/810.jpg 204,109,363,321,1 657,119,816,316,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/811.jpg 233,128,384,294,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/812.jpg 133,32,217,120,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/813.jpg 582,120,832,429,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/814.jpg 274,64,407,236,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/815.jpg 400,87,658,394,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/816.jpg 320,54,692,494,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/817.jpg 281,57,734,667,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/818.jpg 382,83,595,352,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/819.jpg 336,53,511,287,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/82.jpg 254,35,486,356,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/820.jpg 46,131,100,201,1 128,155,185,208,1 265,159,294,194,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/821.jpg 280,96,409,234,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/822.jpg 434,110,611,347,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/823.jpg 286,63,649,481,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/824.jpg 270,185,398,323,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/825.jpg 98,97,163,185,1 195,99,258,202,1 249,145,288,224,1 292,113,353,197,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/826.jpg 269,136,743,918,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/827.jpg 218,141,841,869,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/828.jpg 229,94,634,503,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/829.jpg 229,132,525,495,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/83.jpg 417,117,561,282,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/830.jpg 258,165,390,316,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/831.jpg 168,46,702,749,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/832.jpg 101,108,299,411,1 332,125,552,399,1 732,47,945,338,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/833.jpg 276,44,728,529,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/834.jpg 306,112,413,240,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/835.jpg 344,44,693,478,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/836.jpg 106,71,328,344,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/837.jpg 199,19,455,348,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/838.jpg 183,438,339,636,1 361,449,506,637,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/839.jpg 400,113,657,447,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/84.jpg 418,29,522,174,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/840.jpg 205,94,604,576,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/841.jpg 246,77,766,663,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/842.jpg 257,166,708,663,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/843.jpg 319,133,739,645,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/844.jpg 300,139,411,263,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/845.jpg 430,55,809,569,1 10,401,152,737,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/846.jpg 371,39,598,369,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/847.jpg 462,109,620,347,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/848.jpg 307,149,439,304,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/849.jpg 499,38,826,510,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/85.jpg 297,99,408,250,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/850.jpg 262,125,403,294,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/851.jpg 278,144,396,273,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/852.jpg 307,151,420,281,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/853.jpg 352,58,418,136,1 188,22,228,69,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/854.jpg 391,106,602,365,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/855.jpg 265,139,392,288,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/856.jpg 237,114,397,299,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/857.jpg 280,144,767,665,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/858.jpg 307,89,715,615,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/859.jpg 554,3,732,227,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/86.jpg 420,70,585,300,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/860.jpg 265,60,422,258,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/861.jpg 279,125,398,262,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/862.jpg 99,112,780,1050,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/863.jpg 369,60,607,437,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/864.jpg 225,313,351,442,1 428,264,541,403,1 597,247,721,403,1 780,220,948,414,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/865.jpg 228,33,653,561,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/866.jpg 97,48,209,172,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/867.jpg 378,168,658,487,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/868.jpg 247,110,764,745,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/869.jpg 377,182,537,372,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/87.jpg 212,19,449,313,0 616,195,793,422,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/870.jpg 394,92,627,416,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/871.jpg 393,230,744,664,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/872.jpg 140,27,864,1027,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/873.jpg 253,40,400,189,1 492,23,636,200,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/874.jpg 355,95,669,447,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/875.jpg 363,374,710,790,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/876.jpg 246,163,376,310,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/877.jpg 303,252,739,821,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/878.jpg 327,36,706,451,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/879.jpg 151,52,245,180,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/88.jpg 549,64,674,215,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/880.jpg 247,17,444,266,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/881.jpg 268,137,402,277,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/882.jpg 135,106,239,240,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/883.jpg 152,20,643,633,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/884.jpg 211,119,256,179,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/885.jpg 290,92,417,228,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/886.jpg 196,96,778,825,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/887.jpg 351,75,668,491,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/888.jpg 326,140,429,252,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/889.jpg 235,184,286,241,1 319,172,377,236,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/89.jpg 544,61,712,278,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/890.jpg 291,79,398,217,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/891.jpg 182,193,803,1026,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/892.jpg 281,126,430,283,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/893.jpg 290,151,426,314,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/894.jpg 434,27,616,263,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/895.jpg 377,86,733,464,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/896.jpg 256,121,393,269,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/897.jpg 199,98,782,911,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/898.jpg 340,37,546,286,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/899.jpg 60,531,260,773,1 657,134,888,403,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/9.jpg 265,66,513,375,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/90.jpg 332,105,498,309,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/900.jpg 396,39,849,588,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/901.jpg 379,131,753,612,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/902.jpg 345,549,909,1281,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/903.jpg 230,99,835,841,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/904.jpg 293,134,538,416,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/905.jpg 176,35,323,222,1 675,138,809,285,1 418,159,519,299,1 311,160,383,283,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/906.jpg 318,110,438,269,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/907.jpg 275,143,391,281,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/908.jpg 263,128,397,262,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/909.jpg 289,62,655,576,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/91.jpg 537,113,614,202,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/910.jpg 98,210,209,358,1 316,228,435,356,1 552,145,677,302,1 827,144,960,326,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/911.jpg 178,326,313,507,1 312,325,447,505,1 462,330,618,534,1 621,218,762,398,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/912.jpg 422,226,553,402,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/913.jpg 315,99,438,247,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/914.jpg 316,125,412,245,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/915.jpg 137,130,482,591,1 602,184,969,641,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/916.jpg 300,99,405,232,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/917.jpg 281,348,423,538,1 495,397,654,613,1 771,407,938,606,1 399,83,551,262,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/918.jpg 122,44,218,184,1 227,49,329,181,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/919.jpg 294,143,407,272,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/92.jpg 421,9,724,398,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/920.jpg 279,117,416,283,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/921.jpg 3,142,652,1049,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/922.jpg 196,11,380,280,1 644,123,825,348,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/923.jpg 275,118,705,758,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/924.jpg 189,214,632,781,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/925.jpg 168,123,703,855,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/926.jpg 363,63,677,488,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/927.jpg 242,71,385,237,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/928.jpg 113,66,870,955,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/929.jpg 206,68,696,832,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/93.jpg 375,24,647,372,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/930.jpg 414,127,566,327,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/931.jpg 22,98,111,195,1 170,93,255,197,1 393,91,500,207,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/932.jpg 254,63,648,538,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/933.jpg 341,137,694,534,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/934.jpg 218,86,371,266,1 728,22,960,267,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/935.jpg 453,59,590,224,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/936.jpg 307,105,795,633,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/937.jpg 328,36,639,416,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/938.jpg 268,74,401,232,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/939.jpg 328,55,543,305,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/94.jpg 354,10,639,395,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/940.jpg 79,116,157,195,1 191,113,233,159,1 385,75,447,156,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/941.jpg 90,56,184,164,1 295,85,371,187,1 476,55,567,164,1 686,65,779,173,1 861,49,963,165,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/942.jpg 357,79,623,393,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/943.jpg 358,278,671,551,1 699,59,1024,414,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/944.jpg 219,424,511,753,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/945.jpg 372,217,661,581,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/946.jpg 156,61,351,332,1 531,68,714,295,1 800,168,941,417,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/947.jpg 116,44,160,92,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/948.jpg 274,221,661,693,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/949.jpg 166,128,794,1033,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/95.jpg 284,41,567,362,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/950.jpg 249,139,378,293,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/951.jpg 269,88,885,871,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/952.jpg 202,117,279,236,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/953.jpg 377,33,596,266,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/954.jpg 52,237,119,337,1 250,231,322,321,1 465,238,543,342,1 666,234,754,351,1 838,210,922,341,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/955.jpg 339,80,662,496,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/956.jpg 296,163,686,719,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/957.jpg 271,124,641,574,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/958.jpg 319,113,441,243,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/959.jpg 421,157,685,420,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/96.jpg 336,64,525,259,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/960.jpg 230,129,660,643,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/961.jpg 188,80,346,255,1 480,60,641,245,1 719,97,875,273,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/962.jpg 301,122,797,705,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/963.jpg 229,39,303,132,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/964.jpg 385,115,710,537,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/965.jpg 280,136,418,278,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/966.jpg 252,117,631,544,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/967.jpg 287,112,415,255,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/968.jpg 46,126,153,269,1 175,9,284,158,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/969.jpg 330,109,750,686,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/97.jpg 430,22,704,424,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/970.jpg 260,91,400,237,1 799,141,918,260,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/971.jpg 282,66,654,488,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/972.jpg 690,234,935,495,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/973.jpg 320,31,675,531,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/974.jpg 246,21,661,624,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/975.jpg 134,169,241,288,1 680,160,804,303,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/976.jpg 266,103,407,269,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/977.jpg 148,70,316,342,1 422,71,640,317,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/978.jpg 186,40,366,249,1 715,56,891,264,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/979.jpg 3,120,389,735,1 389,172,773,742,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/98.jpg 425,119,598,366,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/980.jpg 336,64,853,672,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/981.jpg 177,91,252,174,1 280,88,358,186,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/982.jpg 85,142,187,267,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/983.jpg 220,110,381,277,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/984.jpg 205,75,274,159,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/985.jpg 89,155,174,274,1 198,133,325,265,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/986.jpg 314,60,450,213,1 597,6,731,138,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/987.jpg 221,102,812,774,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/988.jpg 455,121,746,530,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/989.jpg 18,103,108,217,1 304,75,408,205,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/99.jpg 421,82,576,291,0 771,63,921,234,0 204,47,349,217,0 2,146,122,339,0
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/990.jpg 235,114,391,299,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/991.jpg 289,133,410,265,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/992.jpg 277,88,504,385,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/993.jpg 534,113,811,466,1 105,79,348,383,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/994.jpg 197,74,817,874,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/995.jpg 253,132,436,330,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/996.jpg 143,8,854,639,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/997.jpg 55,54,188,219,1 372,50,491,203,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/998.jpg 258,65,660,579,1
+C:\Users\wangxi\Desktop\2020sanxueqi\yolo3\新建文件夹\yolo3-pytorch-copy/VOCdevkit/VOC2007/JPEGImages/999.jpg 204,66,386,287,1
