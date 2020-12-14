@@ -34,7 +34,7 @@
 
 **以及其他**
 
-<video src="demo1.mp4"></video>
+<video src="../demo1.mp4"></video>
 
 
 
